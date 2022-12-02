@@ -7,7 +7,11 @@ El puntaje obtenido esta adjunto en una imagen dentro de la carpeta junto con el
 Participantes:
 
 Julian David Ruiz Herrera
+
 Juan Felipe Usuga Villegas
+
 Jonatan Urrego Zea
+
 Johan Sebastian Cano Garcia
+
 Raul vladimir Gaitan Vaca
