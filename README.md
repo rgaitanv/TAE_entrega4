@@ -1,6 +1,5 @@
 # TAE_entrega4
 
-Se participo en 2 competencias de kaggle
+Se participo en 1 competencia de kaggle
 
-
-El puntaje obtenido para cada caso esta adjunto en una imagen dentro de cada carpeta.
+El puntaje obtenido esta adjunto en una imagen dentro de la carpeta junto con el colab que contiene la solucion.
